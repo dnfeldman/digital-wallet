@@ -3,6 +3,6 @@
 project/
 target/
 /insight_testsuite/temp/
-/paymo_input/*
-/paymo_output/*
+paymo_input/*.txt
+paymo_output/*.txt
 /insight_testsuite/results.txt
